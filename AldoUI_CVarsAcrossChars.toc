@@ -1,7 +1,0 @@
-## Interface: 90100
-## Title: !|cff00ffffCVarsAcrossChars|r
-## Notes: Same CVars across all characters.
-## Version: 1.0
-## Author: Aldo
-
-CVarsAcrossChars.lua
